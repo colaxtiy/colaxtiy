@@ -1,7 +1,7 @@
 ### Merhaba 👋
 ## Colaxtiy,yazılım ve siber güvenlik alanında çalışmalar yapan bir internet şirketidir.
-### En çok kullandığımız diller: python, c#, php
-### Onun dışında temel olarak projelerimizde yer alan diller: js, html ,css ,vs.net ,batch ,bash, c, c++
+### En çok kullandığımız diller: python, html, css
+### Onun dışında temel olarak projelerimizde yer alan diller:bash, php, sql
 ## Sosyal medya adreslerimiz;
 ###### Telegram: @colaxtiy 
 ###### Telegram genel kanal: t.me/colaxtiy 
